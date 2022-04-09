@@ -1,7 +1,7 @@
 # Power BI Embedded React APP
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
-[![Latest Version](https://img.shields.io/github/release/victorap93/powerbiembedded-react.svg?style=flat-square)](https://github.com/victorap93/powerbiembedded-react/releases)
+[![Latest Version](https://img.shields.io/github/release/victorap93/powerbiembedded-react-app.svg?style=flat-square)](https://github.com/victorap93/powerbiembedded-react-app/releases)
 
 
 ## Dependency
