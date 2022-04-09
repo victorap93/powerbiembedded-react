@@ -1,4 +1,4 @@
-# Power BI Embedded React
+# Power BI Embedded React APP
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 [![Latest Version](https://img.shields.io/github/release/victorap93/powerbiembedded-react.svg?style=flat-square)](https://github.com/victorap93/powerbiembedded-react/releases)
@@ -11,7 +11,7 @@ For the full working of this project, you also need to start its [API](https://g
 
 ## Installation
 
-Make sure you have the Node.js service running and composer installed, open the terminal, navigate to your working directory and run the commands below:
+Make sure you have the **Node.js** service running and **npm** installed, open the terminal, navigate to your working directory and run the commands below:
 
 ```bash
 git clone https://github.com/victorap93/powerbiembedded-react.git
@@ -28,7 +28,7 @@ Read this [step](https://docs.microsoft.com/en-us/power-bi/developer/embedded/em
 
 ### Put paramters in project:
 
-In `.env`, replace the empty values ​​with those obtained from Microsoft.
+Create a copy from `.env.example` named `.env` and replace the empty values ​​with *report_id* obtained from Microsoft and your API URL.
 
 ### Run app:
 
@@ -41,4 +41,4 @@ npm start
 
 ## License
 
-Power BI Embedded PHP API is made available under the MIT License (MIT). Please see [License File](LICENSE) for more information.
+Power BI Embedded React APP is made available under the MIT License (MIT). Please see [License File](LICENSE) for more information.
